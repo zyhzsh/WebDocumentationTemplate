@@ -46,7 +46,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://xxx.com',
+            href: 'https://google.com',
             // label: 'GitHub',
             className: "header-github-link",
             "aria-label": "GitHub repository",
